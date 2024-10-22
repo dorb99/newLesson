@@ -1,4 +1,3 @@
-console.timeLog("hello user")
-console.timeLog("hello user")
-console.timeLog("hello user")
-console.timeLog("hello user")
+console.log("hello user")
+
+console.log("hello user")
